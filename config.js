@@ -53,6 +53,14 @@ const CONFIG = {
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
+    // Our Memories Gallery
+galleryImages: [
+    "images/photo1.png",
+    "images/photo2.png",
+    "images/photo3.png"
+    "images/photo4.png"
+],
+
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
