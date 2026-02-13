@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "Надад хэр их хайртай юм бэ дээ?",                          // For the love meter
-            startText: "Ийм их үү!",                                   // Text before the percentage
+            startText: "Ямархуу их юм бэ дээ!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
